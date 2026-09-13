@@ -2,7 +2,7 @@
 
 int main()
 {
-    int a;
+    unsigned int a;
 
     printf("input non-negative number:\n");
     scanf("%d", &a);
